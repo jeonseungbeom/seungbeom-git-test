@@ -21,7 +21,7 @@ export default function Login() {
   return (
     <div className="login">
       <main className="loginContainer">
-        <h1 className="title">Git Test</h1>
+        <h1 className="title">Git Teest</h1>
         <form className="loginForm" onSubmit={goToMain}>
           <input
             className="userId"
